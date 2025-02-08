@@ -8,6 +8,9 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+data/
+mlruns/
+0/
 build/
 develop-eggs/
 dist/
