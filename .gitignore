@@ -1,3 +1,16 @@
+data/
+mlruns/
+0/
+
+digital-research-assistant/notebooks/
+digital-research-assistant/output/
+digital-research-assistant/.ruff_cache
+digital-research-assistant/configs/
+digital-research-assistant/.env.example
+*.json
+*.yaml
+*.yml
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -8,9 +21,6 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-data/
-mlruns/
-0/
 build/
 develop-eggs/
 dist/
