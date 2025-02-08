@@ -1,0 +1,15 @@
+artifact_uri: file:///home/olawale/Desktop/PROJECTS/llms/analytics-ai/mlruns/0/a779622210664cb08ed59cde4feb1c92/artifacts
+end_time: 1738936011344
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a779622210664cb08ed59cde4feb1c92
+run_name: delightful-shark-523
+run_uuid: a779622210664cb08ed59cde4feb1c92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738936003708
+status: 3
+tags: []
+user_id: olawale

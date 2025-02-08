@@ -1,0 +1,15 @@
+artifact_uri: file:///home/olawale/Desktop/PROJECTS/llms/analytics-ai/mlruns/0/12ab764b896b48998f6dc55cdd49155d/artifacts
+end_time: 1738933372744
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12ab764b896b48998f6dc55cdd49155d
+run_name: clean-bass-332
+run_uuid: 12ab764b896b48998f6dc55cdd49155d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738933354652
+status: 3
+tags: []
+user_id: olawale

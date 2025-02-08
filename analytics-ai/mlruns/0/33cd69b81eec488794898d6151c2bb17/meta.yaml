@@ -1,0 +1,15 @@
+artifact_uri: file:///home/olawale/Desktop/PROJECTS/llms/analytics-ai/mlruns/0/33cd69b81eec488794898d6151c2bb17/artifacts
+end_time: 1738855235978
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33cd69b81eec488794898d6151c2bb17
+run_name: carefree-duck-719
+run_uuid: 33cd69b81eec488794898d6151c2bb17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738855218499
+status: 3
+tags: []
+user_id: olawale

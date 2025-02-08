@@ -1,0 +1,15 @@
+artifact_uri: file:///home/olawale/Desktop/PROJECTS/llms/analytics-ai/mlruns/0/9e3196df14d24cb9bf82b2a9a5d0f33e/artifacts
+end_time: 1738935101891
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e3196df14d24cb9bf82b2a9a5d0f33e
+run_name: nosy-skunk-609
+run_uuid: 9e3196df14d24cb9bf82b2a9a5d0f33e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738935086153
+status: 3
+tags: []
+user_id: olawale

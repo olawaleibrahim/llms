@@ -1,0 +1,1 @@
+{"messages": [{"role": "system", "content": "Answer the following question in two sentences"}, {"role": "user", "content": "How does useEffect() work?"}], "model": "gpt-4o-mini"}

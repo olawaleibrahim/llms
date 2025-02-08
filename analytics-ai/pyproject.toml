@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "analytics-ai"
+version = "0.1.0"
+description = ""
+authors = ["Olawale Ibrahim <ibrahim.olawale13@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.2.3"
+numpy = "2.2.2"
+groq = "0.16.0"
+openai = "^1.61.1"
+mlflow = "^2.20.1"
+aiohttp = "^3.11.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

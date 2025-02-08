@@ -1,0 +1,15 @@
+artifact_uri: file:///home/olawale/Desktop/PROJECTS/llms/analytics-ai/mlruns/0/b6a1ba3de7ad405aaa4f3da7201bd494/artifacts
+end_time: 1738936127707
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b6a1ba3de7ad405aaa4f3da7201bd494
+run_name: gentle-wasp-817
+run_uuid: b6a1ba3de7ad405aaa4f3da7201bd494
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738936108460
+status: 3
+tags: []
+user_id: olawale

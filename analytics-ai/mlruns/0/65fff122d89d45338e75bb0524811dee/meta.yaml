@@ -1,0 +1,15 @@
+artifact_uri: file:///home/olawale/Desktop/PROJECTS/llms/analytics-ai/mlruns/0/65fff122d89d45338e75bb0524811dee/artifacts
+end_time: 1738855375246
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65fff122d89d45338e75bb0524811dee
+run_name: languid-wasp-902
+run_uuid: 65fff122d89d45338e75bb0524811dee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738855372290
+status: 4
+tags: []
+user_id: olawale
