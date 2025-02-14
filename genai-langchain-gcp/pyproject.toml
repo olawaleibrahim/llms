@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "genai-langchain-gcp"
+version = "0.1.0"
+description = ""
+authors = ["Olawale Ibrahim <ibrahim.olawale13@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+langchain-core = "^0.3.35"
+langchain-cli = "^0.0.35"
+google-genai = "^1.2.0"
+notebook = "^7.3.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
